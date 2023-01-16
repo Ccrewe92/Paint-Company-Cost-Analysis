@@ -1,6 +1,5 @@
 #Clinton Crewe
 #November - 12 - 2022
-#SAIT CRPG216
 #A program for Shiny Paint(SP) to calculate amount of paint and cost needed for specific room.
 
 
